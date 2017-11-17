@@ -92,7 +92,7 @@ exports = module.exports = __webpack_require__(189)();
 
 
 // module
-exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\n", ""]);
+exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\nhtml {\n    height: 100%;\n}\nbody{\n    /*background:url('/assets/pic/Tech.jpg');*/\n    background-repeat: no-repeat;\n    background-attachment: fixed;\n    background-position: center;\n    background-size: cover;\n}\n", ""]);
 
 // exports
 
